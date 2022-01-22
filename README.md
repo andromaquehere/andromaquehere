@@ -26,11 +26,17 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/ANDROMAQUE) 
 [![FaceBook](https://img.shields.io/badge/-FaceBook-010101?style=for-the-badge&logo=FaceBook&logoColor=1195f5)](https://www.facebook.com/nikita.gribkov.14)
+[![PASTBIN](https://img.shields.io/badge/-PASTBIN-010101?style=for-the-badge&logo=PASTBIN&logoColor=27A0D9)](https://pastebin.com/u/ANDROMAQUE) 
 
 ### GitHub Statistics
 
-<details>
+<!-- <details>
     <summary>:zap: Statistics: :zap:</summary>
     <img align="left" alt="Anurag's GitHub stats" src= "https://github-readme-stats.vercel.app/api?username=ANDROMAQUE10&show_icons=true&theme=dark"/>
     <img align="left" alt="Anurag's GitHub stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ANDROMAQUE10&layout=compact&show_icons=true&theme=dark"/>
+</details> -->
+<details>
+    <summary>:zap: Statistics: :zap:</summary>
+        <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ANDROMAQUE10&count_private=true&include_all_commits=true&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDROMAQUE10&layout=compact&theme=dark" />
 </details>
