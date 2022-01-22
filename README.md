@@ -26,7 +26,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/ANDROMAQUE) 
 [![FaceBook](https://img.shields.io/badge/-FaceBook-010101?style=for-the-badge&logo=FaceBook&logoColor=1195f5)](https://www.facebook.com/nikita.gribkov.14)
-[![PASTBIN](https://img.shields.io/badge/-PASTBIN-010101?style=for-the-badge&logo=PASTBIN&logoColor=27A0D9)](https://pastebin.com/u/ANDROMAQUE) 
+[![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-010101?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
 
 ### GitHub Statistics
 
