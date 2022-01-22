@@ -1,8 +1,8 @@
 <!-- [![Header](https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/ANDROMAQUE-github.png)](https://github.com/ANDROMAQUE10) -->
 ![Profile views](https://gpvc.arturio.dev/ANDROMAQUE10) 
 
-### Hi there 👋, my name is Nikita
-#### I`m a Junior Developer on Flutter SDK
+## Hi there 👋, my name is Nikita
+### I`m a Junior Developer on Flutter SDK
  
 
 <details>
