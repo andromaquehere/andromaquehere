@@ -1,5 +1,5 @@
 <!-- [![Header](https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/ANDROMAQUE-github.png)](https://github.com/ANDROMAQUE10) -->
-![Profile views](https://gpvc.arturio.dev/ANDROMAQUE10) 
+
 
 ## Hi there 👋, my name is Nikita
 ### I`m a Junior Developer on Flutter SDK
@@ -7,7 +7,7 @@
 
 <details>
     <summary>👇 My lifestyle</summary>
-    <img height="250" alt="This is Joke" src= "https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/eatsleep.png"/>
+    <img height="300" alt="This is Joke" src= "https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/eatsleep.png"/>
 </details>
 
 ### Languades and Tools
@@ -40,3 +40,5 @@
         <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ANDROMAQUE10&count_private=true&include_all_commits=true&theme=dark" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDROMAQUE10&layout=compact&theme=dark" />
 </details>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ANDROMAQUE10)
