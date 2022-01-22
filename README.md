@@ -5,7 +5,7 @@
 
 <details>
     <summary>👇 My lifestyle</summary>
-    <img height="300" alt="This is Joke" src= "https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/eatsleep.png"/>
+    <img height="250" alt="This is Joke" src= "https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/eatsleep.png"/>
 </details>
 
 ### Languades and Tools
