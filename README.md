@@ -7,7 +7,7 @@
 
 <details>
     <summary>👇 My lifestyle</summary>
-    <img align="center" alt="This is Joke" src= "https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/images.png"/>
+    <img height="250" alt="This is Joke" src= "https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/images.png"/>
 </details>
 
 ### Languades and Tools
