@@ -1,9 +1,7 @@
 <!-- [![Header](https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/ANDROMAQUE-github.png)](https://github.com/ANDROMAQUE10) -->
 
-
 ## Hi there 👋, my name is Nikita
 ### I`m a Junior Developer on Flutter SDK
- 
 
 <details>
     <summary>👇 My lifestyle</summary>
@@ -30,14 +28,9 @@
 
 ### GitHub Statistics
 
-<!-- <details>
-    <summary>:zap: Statistics: :zap:</summary>
-    <img align="left" alt="Anurag's GitHub stats" src= "https://github-readme-stats.vercel.app/api?username=ANDROMAQUE10&show_icons=true&theme=dark"/>
-    <img align="left" alt="Anurag's GitHub stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ANDROMAQUE10&layout=compact&show_icons=true&theme=dark"/>
-</details> -->
 <details>
     <summary>:zap: Statistics: :zap:</summary>
-        <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ANDROMAQUE10&count_private=true&include_all_commits=true&theme=dark" />
+        <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ANDROMAQUE10&count_private=true&include_all_commits=true&theme=dark&show_icons=true" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDROMAQUE10&layout=compact&theme=dark" />
 </details>
 
