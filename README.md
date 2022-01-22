@@ -1,8 +1,6 @@
 [![Header](https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/ANDROMAQUE.png)](https://github.com/ANDROMAQUE10)
 
-### About me
-
-Junior Programmer on Flutter SDK
+### Junior Programmer on Flutter SDK
 
 ![About me](https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/images.png)
 
@@ -19,3 +17,10 @@ Junior Programmer on Flutter SDK
 ### Folow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/ANDROMAQUE) [![FaceBook](https://img.shields.io/badge/-FaceBook-010101?style=for-the-badge&logo=FaceBook&logoColor=1195f5)](https://www.facebook.com/nikita.gribkov.14)
+
+
+### Github Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDROMAQUE10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDROMAQUE10&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
