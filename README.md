@@ -1,20 +1,23 @@
 <!-- [![Header](https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/ANDROMAQUE-github.png)](https://github.com/ANDROMAQUE10) -->
+![Profile views](https://gpvc.arturio.dev/ANDROMAQUE10) 
 
 ### Hi there 👋, my name is Nikita
 #### I`m a Junior Developer on Flutter SDK
-![Profile views](https://gpvc.arturio.dev/ANDROMAQUE10)  
+ 
 
 <details>
-    <summary>:👇: My lifestyle</summary>
+    <summary>👇 My lifestyle</summary>
     <img align="center" alt="This is Joke" src= "https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/images.png"/>
 </details>
+
 ### Languades and Tools
 
 ![Flutter](https://img.shields.io/badge/-Flutter-010101?style=for-the-badge&logo=flutter&logoColor=47c5fb) 
 ![Dart](https://img.shields.io/badge/-Dart-010101?style=for-the-badge&logo=dart&logoColor=097CDB) 
+![FireBase](https://img.shields.io/badge/-FireBase-010101?style=for-the-badge&logo=firebase&logoColor=)
 ![bloc](https://img.shields.io/badge/-bloc-010101?style=for-the-badge&logo=bloc&logoColor=) 
 ![SOLID](https://img.shields.io/badge/-SOLID-010101?style=for-the-badge&logo=SOLID&logoColor=) 
-![FireBase](https://img.shields.io/badge/-FireBase-010101?style=for-the-badge&logo=firebase&logoColor=)
+
 ![Python](https://img.shields.io/badge/-Python-010101?style=for-the-badge&logo=Python&logoColor=) 
 ![Django](https://img.shields.io/badge/-Django-010101?style=for-the-badge&logo=Django&logoColor=) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-010101?style=for-the-badge&logo=PostgreSQL&logoColor=)
