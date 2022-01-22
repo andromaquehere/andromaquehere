@@ -18,6 +18,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/ANDROMAQUE) [![FaceBook](https://img.shields.io/badge/-FaceBook-010101?style=for-the-badge&logo=FaceBook&logoColor=1195f5)](https://www.facebook.com/nikita.gribkov.14)
 
+### GitHub Statistics
 
 <details>
     <summary>:zap: Statistics:</summary>
