@@ -24,7 +24,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/ANDROMAQUE) 
 [![FaceBook](https://img.shields.io/badge/-FaceBook-010101?style=for-the-badge&logo=FaceBook&logoColor=1195f5)](https://www.facebook.com/nikita.gribkov.14)
-
 [![Linkedin](https://img.shields.io/badge/-Linkedin-010101?style=for-the-badge&logo=Linkedin&logoColor=1F75FE)](https://www.linkedin.com/feed/?trk=onboarding-landing) 
 [![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-010101?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
 
