@@ -14,18 +14,18 @@
 ![Dart](https://img.shields.io/badge/-Dart-0d1117?style=for-the-badge&logo=dart&logoColor=097CDB) 
 ![FireBase](https://img.shields.io/badge/-FireBase-0d1117?style=for-the-badge&logo=firebase&logoColor=)
 ![bloc](https://img.shields.io/badge/-bloc-0d1117?style=for-the-badge&logo=bloc&logoColor=) 
-![SOLID](https://img.shields.io/badge/-SOLID-010101?style=for-the-badge&logo=SOLID&logoColor=) 
+![SOLID](https://img.shields.io/badge/-SOLID-0d1117?style=for-the-badge&logo=SOLID&logoColor=) 
 
-![Python](https://img.shields.io/badge/-Python-010101?style=for-the-badge&logo=Python&logoColor=) 
-![Django](https://img.shields.io/badge/-Django-010101?style=for-the-badge&logo=Django&logoColor=) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-010101?style=for-the-badge&logo=PostgreSQL&logoColor=)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=) 
+![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=Django&logoColor=) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=)
 
 ### Folow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/ANDROMAQUE) 
-[![FaceBook](https://img.shields.io/badge/-FaceBook-010101?style=for-the-badge&logo=FaceBook&logoColor=487de9)](https://www.facebook.com/nikita.gribkov.14)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-010101?style=for-the-badge&logo=Linkedin&logoColor=0a66c2)](https://www.linkedin.com/feed/?trk=onboarding-landing) 
-[![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-010101?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
+[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/ANDROMAQUE) 
+[![FaceBook](https://img.shields.io/badge/-FaceBook-0d1117?style=for-the-badge&logo=FaceBook&logoColor=487de9)](https://www.facebook.com/nikita.gribkov.14)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0d1117?style=for-the-badge&logo=Linkedin&logoColor=0a66c2)](https://www.linkedin.com/feed/?trk=onboarding-landing) 
+[![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
 
 
 ### GitHub Statistics
