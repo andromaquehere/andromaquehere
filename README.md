@@ -31,6 +31,10 @@
 [![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/17829956/andromaque)
 
+### Spotify playing
+
+[![Spotify](https://music-on-github.vercel.app/api/spotify)](https://open.spotify.com/user/de1b47770c2b4b45ab9c0a2d7b565e87)
+
 
 ### GitHub Statistics
 
