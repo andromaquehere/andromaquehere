@@ -26,7 +26,10 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/ANDROMAQUE) 
 [![FaceBook](https://img.shields.io/badge/-FaceBook-0d1117?style=for-the-badge&logo=FaceBook&logoColor=1877f2)](https://www.facebook.com/nikita.gribkov.14)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d1117?style=for-the-badge&logo=Linkedin&logoColor=0a66c2)](https://www.linkedin.com/feed/?trk=onboarding-landing) 
+
+
 [![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/17829956/andromaque)
 
 
 ### GitHub Statistics
