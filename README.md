@@ -19,7 +19,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=326b9a) 
 ![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=Django&logoColor=0c4b33) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Folow me
 
