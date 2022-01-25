@@ -33,7 +33,7 @@
 
 ### Spotify playing
 
-[![Spotify](https://novatorem-andromaque10.vercel.app/api/spotify?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/ht7o2kog4bh14rj6xcfyzz72h)
+[![Spotify](https://music-on-github.vercel.app/api/spotify?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/ht7o2kog4bh14rj6xcfyzz72h)
 
 
 ### GitHub Statistics
