@@ -24,12 +24,12 @@
 ### Folow me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ANDROMAQUE) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white))](https://www.facebook.com/nikita.gribkov.14)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nikita.gribkov.14)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=onboarding-landing) 
 [![Discord](https://img.shields.io/badge/%ANDROMAQUE%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](ANDROMAQUE#8608)
 
 
-[![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
+[![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-292929?style=for-the-badge&logo=PASTEBIN&logoColor=white)](https://pastebin.com/u/ANDROMAQUE) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17829956/andromaque)
 
 
