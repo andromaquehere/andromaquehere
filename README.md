@@ -31,9 +31,9 @@
 [![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/17829956/andromaque)
 
-### Spotify playing
+<!-- ### Spotify playing
 
-[![Spotify](https://music-on-github.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/ht7o2kog4bh14rj6xcfyzz72h)
+[![Spotify](https://music-on-github.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/ht7o2kog4bh14rj6xcfyzz72h) -->
 
 
 ### GitHub Statistics
