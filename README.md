@@ -10,27 +10,23 @@
 
 ### Languades and Tools
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569b) 
+![Dart](https://img.shields.io/badge/-Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175c2) 
+![FireBase](https://img.shields.io/badge/-FireBase-0d1117?style=for-the-badge&logo=firebase&logoColor=)
 ![SOLID](https://img.shields.io/badge/-SOLID-0d1117?style=for-the-badge&logo=SOLID&logoColor=) 
 ![bloc](https://img.shields.io/badge/-bloc-0d1117?style=for-the-badge&logo=bloc&logoColor=) 
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=326b9a) 
+![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=Django&logoColor=0c4b33) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 
 ### Folow me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ANDROMAQUE) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nikita.gribkov.14)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=onboarding-landing) 
-[![Discord](https://img.shields.io/badge/%ANDROMAQUE%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](ANDROMAQUE#8608)
-
-
-[![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-292929?style=for-the-badge&logo=PASTEBIN&logoColor=white)](https://pastebin.com/u/ANDROMAQUE) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17829956/andromaque)
+[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/ANDROMAQUE) 
+[![FaceBook](https://img.shields.io/badge/-FaceBook-0d1117?style=for-the-badge&logo=FaceBook&logoColor=1877f2)](https://www.facebook.com/nikita.gribkov.14)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0d1117?style=for-the-badge&logo=Linkedin&logoColor=0a66c2)](https://www.linkedin.com/feed/?trk=onboarding-landing) 
+[![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
 
 
 ### GitHub Statistics
