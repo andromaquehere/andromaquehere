@@ -33,7 +33,7 @@
 
 ### Spotify playing
 
-[![Spotify](https://novatorem-three-ochre.vercel.app/api/spotify)](https://open.spotify.com/user/ht7o2kog4bh14rj6xcfyzz72h)
+[![Spotify](https://novatorem-andromaque10.vercel.app/api/spotify)](https://open.spotify.com/user/ht7o2kog4bh14rj6xcfyzz72h)
 
 
 ### GitHub Statistics
