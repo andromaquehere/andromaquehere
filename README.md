@@ -10,14 +10,14 @@
 
 ### Languades and Tools
 
-![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569b) 
+![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=45d1fd) 
 ![Dart](https://img.shields.io/badge/-Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175c2) 
 ![FireBase](https://img.shields.io/badge/-FireBase-0d1117?style=for-the-badge&logo=firebase&logoColor=)
 ![SOLID](https://img.shields.io/badge/-SOLID-0d1117?style=for-the-badge&logo=SOLID&logoColor=) 
 ![bloc](https://img.shields.io/badge/-bloc-0d1117?style=for-the-badge&logo=bloc&logoColor=) 
 
 
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=326b9a) 
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=f6d857) 
 ![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=Django&logoColor=0c4b33) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 
