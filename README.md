@@ -33,7 +33,7 @@
 
 ### Spotify playing
 
-[![Spotify](https://music-on-github.vercel.app/api/spotify)](https://open.spotify.com/user/ht7o2kog4bh14rj6xcfyzz72h)
+[![Spotify](https://music-on-github-andromaque10.vercel.app/api/spotify)](https://open.spotify.com/user/ht7o2kog4bh14rj6xcfyzz72h)
 
 
 ### GitHub Statistics
