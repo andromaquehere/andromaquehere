@@ -21,20 +21,20 @@
 <details>
 <summary>More Skills</summary>
 
-### Architectural pattern
+### 🏰 Architectural pattern
 ![SOLID](https://img.shields.io/badge/-SOLID-0d1117?style=for-the-badge&logo=SOLID&logoColor=) 
 ![bloc](https://img.shields.io/badge/-bloc-0d1117?style=for-the-badge&logo=bloc&logoColor=) 
 ![Cubit](https://img.shields.io/badge/-Cubit-0d1117?style=for-the-badge&logo=Cubit&logoColor=) 
 ![MWWM](https://img.shields.io/badge/-MWWM-0d1117?style=for-the-badge&logo=MWWM&logoColor=) 
 
-### Tools
+### 🧰 Tools
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ANDROMAQUE10) 
 [![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/17829956/)
 [![Google](https://img.shields.io/badge/-Google-0d1117?style=for-the-badge&logo=Google&logoColor=4587f4)](https://www.google.com/)
 </details>
 
-### Folow me
+### ✈️ Folow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/ANDROMAQUE) 
 [![FaceBook](https://img.shields.io/badge/-FaceBook-0d1117?style=for-the-badge&logo=FaceBook&logoColor=1877f2)](https://www.facebook.com/nikita.gribkov.14)
@@ -45,7 +45,7 @@
 [![Spotify](https://music-on-github.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/ht7o2kog4bh14rj6xcfyzz72h) -->
 
 
-### GitHub Statistics
+### 🧮 GitHub Statistics
 
 <details>
 <summary>:zap: Statistics: :zap:</summary>
