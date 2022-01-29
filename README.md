@@ -8,7 +8,7 @@
     <img height="250" alt="This is Joke" src= "https://github.com/ANDROMAQUE10/ANDROMAQUE10/blob/main/assets/eatsleep.png"/>
 </details>
 
-### Languades and Tools
+### 💼 Hard Skills
 
 ![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=45d1fd) 
 ![Dart](https://img.shields.io/badge/-Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175c2) 
@@ -16,20 +16,32 @@
 ![SOLID](https://img.shields.io/badge/-SOLID-0d1117?style=for-the-badge&logo=SOLID&logoColor=) 
 ![bloc](https://img.shields.io/badge/-bloc-0d1117?style=for-the-badge&logo=bloc&logoColor=) 
 
-
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=306998) 
-![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=Django&logoColor=0c4b33) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
+<details>
+    <summary>More Skills</summary>
+        <br>
+### More Hard Skills
+            ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=306998) 
+            ![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=Django&logoColor=0c4b33) 
+            ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
+        <br>
+### Architectural pattern
+            ![SOLID](https://img.shields.io/badge/-SOLID-0d1117?style=for-the-badge&logo=SOLID&logoColor=) 
+            ![bloc](https://img.shields.io/badge/-bloc-0d1117?style=for-the-badge&logo=bloc&logoColor=) 
+            ![Cobit](https://img.shields.io/badge/-Cobit-0d1117?style=for-the-badge&logo=bloc&logoColor=) 
+        <br>
+### Tools
+            ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+            [![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
+            [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/17829956/)
+            [![Google](https://img.shields.io/badge/-Google-0d1117?style=for-the-badge&logo=Google&logoColor=4587f4)](https://www.google.com/)
+        <br>
+</details>
 
 ### Folow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/ANDROMAQUE) 
 [![FaceBook](https://img.shields.io/badge/-FaceBook-0d1117?style=for-the-badge&logo=FaceBook&logoColor=1877f2)](https://www.facebook.com/nikita.gribkov.14)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d1117?style=for-the-badge&logo=Linkedin&logoColor=0a66c2)](https://www.linkedin.com/feed/?trk=onboarding-landing) 
-
-
-[![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/17829956/andromaque)
 
 <!-- ### Spotify playing
 
