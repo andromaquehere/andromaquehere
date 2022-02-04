@@ -14,8 +14,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175c2) 
 ![FireBase](https://img.shields.io/badge/-FireBase-0d1117?style=for-the-badge&logo=firebase&logoColor=)
 ![SOLID](https://img.shields.io/badge/-SOLID-0d1117?style=for-the-badge&logo=SOLID&logoColor=) 
-![bloc](https://img.shields.io/badge/-bloc-0d1117?style=for-the-badge&logo=bloc&logoColor=) 
-![MWWM](https://img.shields.io/badge/-MWWM-0d1117?style=for-the-badge&logo=MWWM&logoColor=) 
+![IOS](https://img.shields.io/badge/-IOS-0d1117?style=for-the-badge&logo=IOS&logoColor=) 
+![Android](https://img.shields.io/badge/-Android-0d1117?style=for-the-badge&logo=Android&logoColor=) 
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=306998) 
 ![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=Django&logoColor=0c4b33) 
