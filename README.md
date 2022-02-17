@@ -30,7 +30,7 @@
 [![PASTEBIN](https://img.shields.io/badge/-PASTEBIN-0d1117?style=for-the-badge&logo=PASTEBIN&logoColor=)](https://pastebin.com/u/ANDROMAQUE) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/17829956/)
 [![Google](https://img.shields.io/badge/-Google-0d1117?style=for-the-badge&logo=Google&logoColor=4587f4)](https://www.google.com/)
-![AppsFlyer](https://img.shields.io/badge/-AppsFlyer-0d1117?style=for-the-badge&logo=AppsFlyer&logoColor=white)
+![Amplitude](https://img.shields.io/badge/-Amplitude-0d1117?style=for-the-badge&logo=Amplitude&logoColor=white)
 <!-- </details> -->
 
 ### ✈️ Folow me
