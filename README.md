@@ -17,9 +17,9 @@
 ![IOS](https://img.shields.io/badge/-iOS-0d1117?style=for-the-badge&logo=IOS&logoColor=) 
 ![Android](https://img.shields.io/badge/-Android-0d1117?style=for-the-badge&logo=Android&logoColor=) 
 
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=306998) 
-![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=Django&logoColor=0c4b33) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
+<!-- ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=306998) 
+![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=Django&logoColor=0c4b33)  -->
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=336791) -->
 
 <!-- <details>
 <summary>More Skills</summary> -->
