@@ -1,17 +1,16 @@
 <!-- Header -->
-## Hi there 👋, my name is Nikita  
-### Flutter Developer | Mobile & Web Designer
+## Hi there 👋, I’m Nikita  
+**Flutter & Mobile Developer • UI/UX Enthusiast • Clean Architecture Advocate**
 
 ---
 
-### 👨‍💻 About me
-I'm a mobile & web developer specializing in **Flutter & Dart**.  
-Passionate about building **user-friendly, scalable applications** with a focus on **clean architecture**.  
-Currently exploring **modern state management, API design** and improving app performance.  
+### 🎯 Mission
+I build **performant, scalable and beautiful** mobile applications using **Flutter & Dart**.  
+My passion is **clean code, strong architecture** and turning complex ideas into smooth user experiences.  
 
 ---
 
-### 💼 Main Hard Skills  
+### 💼 Hard Skills  
 
 #### 📱 Mobile Development  
 ![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=45d1fd)
@@ -29,12 +28,18 @@ Currently exploring **modern state management, API design** and improving app pe
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-0d1117?style=for-the-badge&logo=archlinux&logoColor=1793d1)
 ![State Management](https://img.shields.io/badge/-Bloc%20/%20Provider-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
 
-#### 🧰 Tools & DevOps  
+#### 🧰 Tools & Design  
 ![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-0d1117?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Jira](https://img.shields.io/badge/-Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC)  
+![Jira](https://img.shields.io/badge/-Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC)
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andromaquehere&layout=compact&theme=dark)  
 
 ---
 
@@ -46,14 +51,4 @@ Currently exploring **modern state management, API design** and improving app pe
 
 ---
 
-### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=andromaquehere&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andromaquehere&layout=compact&theme=dark)  
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andromaquehere)
-
----
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
