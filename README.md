@@ -2,7 +2,7 @@
 
 ## Hi there 👋, my name is Nikita
 
-### I`m a Middle Developer on Flutter SDK
+### I`m a Senior Developer
 
 <details>
 <summary>👇 My lifestyle</summary>
