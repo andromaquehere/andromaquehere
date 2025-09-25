@@ -1,5 +1,4 @@
 <!-- Header -->
-![Header](https://github.com/andromaquehere/andromaquehere/blob/main/assets/ANDROMAQUE-github.png)
 
 ## Hi there 👋, my name is Nikita  
 ### Flutter Developer | Mobile & Web Designer
