@@ -51,7 +51,7 @@
 
 <details>
 <summary>:zap: Statistics: :zap:</summary>
-<img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=andromaquehere&count_private=true&include_all_commits=true&theme=dark&show_icons=true" />
+<img height="165" align="left" src="[https://github-readme-stats.vercel.app/api?username=andromaquehere&count_private=true&include_all_commits=true&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=andromaquehere&count_private=true&include_all_commits=true&theme=dark&show_icons=true%22)" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andromaquehere&layout=compact&theme=dark" />
 </details>
 
