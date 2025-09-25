@@ -2,7 +2,7 @@
 
 ## Hi there 👋, my name is Nikita
 
-<img height="250" alt="This is Joke" src= "https://github.com/andromaquehere/andromaquehere/blob/main/assets/eatsleep.png"/>
+<!-- <img height="250" alt="This is Joke" src= "https://github.com/andromaquehere/andromaquehere/blob/main/assets/eatsleep.png"/> -->
 
 ### 💼 Main Hard Skills
 
