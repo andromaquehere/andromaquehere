@@ -4,10 +4,7 @@
 
 ### I`m a Senior Developer
 
-<details>
-<summary>👇 My lifestyle</summary>
 <img height="250" alt="This is Joke" src= "https://github.com/andromaquehere/andromaquehere/blob/main/assets/eatsleep.png"/>
-</details>
 
 ### 💼 Main Hard Skills
 
