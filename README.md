@@ -4,12 +4,6 @@
 
 ---
 
-### 🎯 Mission
-I build **performant, scalable and beautiful** mobile applications using **Flutter & Dart**.  
-My passion is **clean code, strong architecture** and turning complex ideas into smooth user experiences.  
-
----
-
 ### 💼 Hard Skills  
 
 #### 📱 Mobile Development  
