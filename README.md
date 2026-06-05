@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Nikita%20Gribkov&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Engineer%20%C2%B7%20Cross-platform%20%26%20Native%20%C2%B7%20AI-first%20Builder&descSize=16&descAlignY=58" alt="Nikita Gribkov — Mobile Engineer, AI-first Builder" />
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Mobile+Engineer+%E2%80%94+Flutter+%26+Native;Cross-platform+iOS+%2F+Android+apps;Now+building+AI-first+products;Agents+%C2%B7+LLM+apps+%C2%B7+self-hosted+privacy+infra;Clean+architecture%2C+end+to+end" alt="Mobile Engineer — Flutter & Native; building AI-first products" />
 
 </div>
@@ -56,8 +54,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-gribkov/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andromaquehere@gmail.com)
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=100&section=footer" alt="" />
 </div>
