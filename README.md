@@ -1,48 +1,93 @@
-<!-- Header -->
-## Hi there 👋, I’m Nikita  
-**Flutter & Mobile Developer • UI/UX Enthusiast • Clean Architecture Advocate**
+<!-- Profile README — andromaquehere. Modernized 2026-06-05. Strategy/ADR lives in the vault: 04_Sources/[P]-github-profile/ -->
 
----
+<div align="center">
 
-### 💼 Hard Skills  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Nikita%20Gribkov&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Engineer%20%C2%B7%20Cross-platform%20%26%20Native%20%C2%B7%20AI-first%20Builder&descSize=16&descAlignY=58&animation=fadeIn" alt="Nikita Gribkov — Mobile Engineer, AI-first Builder" />
 
-#### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=45d1fd)
-![Dart](https://img.shields.io/badge/-Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175c2)
-![Android](https://img.shields.io/badge/-Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84)
-![iOS](https://img.shields.io/badge/-iOS-0d1117?style=for-the-badge&logo=apple&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Mobile+Engineer+%E2%80%94+Flutter+%26+Native;Cross-platform+iOS+%2F+Android+apps;Now+building+AI-first+products;Agents+%C2%B7+LLM+apps+%C2%B7+self-hosted+privacy+infra;Clean+architecture%2C+end+to+end" alt="Mobile Engineer — Flutter & Native; building AI-first products" />
 
-#### ☁️ Backend & Cloud  
-![Firebase](https://img.shields.io/badge/-Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![REST API](https://img.shields.io/badge/-REST%20API-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+</div>
 
-#### 🏗️ Principles & Patterns  
-![SOLID](https://img.shields.io/badge/-SOLID-0d1117?style=for-the-badge&logo=abstract&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-0d1117?style=for-the-badge&logo=archlinux&logoColor=1793d1)
-![State Management](https://img.shields.io/badge/-Bloc%20/%20Provider-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
+## 👋 About
 
-#### 🧰 Tools & Design  
-![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-0d1117?style=for-the-badge&logo=gitlab&logoColor=orange)
-![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Jira](https://img.shields.io/badge/-Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC)
+📱 **Mobile engineer.** I ship cross-platform apps with **Flutter** and go native on **iOS (Swift)** and **Android (Kotlin)** when it matters — clean architecture, SOLID, state management that scales.
 
----
+🤖 **Now building AI-first.** Agentic pipelines, LLM apps, and a **self-hosted privacy gateway** that keeps sensitive data out of third-party models. I like systems that are private by default and automated end to end.
 
-### 📊 GitHub Stats
+🚀 I design and ship products under my own brand **lornn**, and lead mobile/AI work day to day.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andromaquehere&layout=compact&theme=dark)  
+## 🧰 Tech
 
----
+**📱 Mobile**
+<br />
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" />
 
-### 📬 Contact me
-[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/andromaquehere)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=Linkedin&logoColor=0a66c2)](https://www.linkedin.com/feed/?trk=onboarding-landing)
-[![Facebook](https://img.shields.io/badge/-Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877f2)](https://www.facebook.com/nikita.gribkov.14)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email)
+**🍎 Native**
+<br />
+<img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio" alt="Swift, Kotlin, Apple / iOS, Android Studio" />
 
----
+**⚙️ Languages &amp; Backend**
+<br />
+<img src="https://skillicons.dev/icons?i=go,python,ts,nodejs,postgres,redis,docker,linux,git" alt="Go, Python, TypeScript, Node.js, PostgreSQL, Redis, Docker, Linux, Git" />
 
-💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
+**🤖 AI &amp; LLM**
+<br />
+![Claude Agent SDK](https://img.shields.io/badge/Claude-Agent_SDK-191919?style=flat&logo=anthropic&logoColor=D97757)
+![OpenAI](https://img.shields.io/badge/OpenAI-191919?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-191919?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-191919?style=flat&logo=ollama&logoColor=white)
+<br />
+<sub>multi-agent orchestration · RAG · PII / privacy filtering · self-hosted models · prompt &amp; agent engineering</sub>
+
+## 📌 Featured
+
+- **[AIDE](https://github.com/andromaquehere/AIDE)** — an AI-driven knowledge &amp; execution engine: an Obsidian vault wired to AI agents (custom skills, multi-agent orchestration, persistent memory). My daily second brain and operating system.
+- **lornn** *(private for now)* — products under my own brand: an **AI-first ERP**, a **PII privacy gateway** for LLMs, and a personal-finance tracker. Self-hosted, privacy-first.
+
+## 📊 GitHub
+
+<!-- Self-host swap: once the github-readme-stats fork is deployed to your Vercel,
+     replace `github-readme-stats.vercel.app` below with `<your-app>.vercel.app`
+     to remove rate-limits and surface private-repo commits. See the vault ADR. -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=andromaquehere&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andromaquehere&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Nikita's GitHub stats" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=andromaquehere&hide_border=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=andromaquehere&hide_border=true&theme=default" alt="Nikita's contribution streak" height="165" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andromaquehere&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andromaquehere&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Most-used languages" height="150" />
+</picture>
+
+<!-- 3D contribution calendar — generated daily by .github/workflows/3d-contrib.yml -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
+
+<!-- Contribution snake — generated by .github/workflows/snake.yml, committed to the `output` branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andromaquehere/andromaquehere/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andromaquehere/andromaquehere/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/andromaquehere/andromaquehere/output/github-snake.svg" alt="Contribution-grid snake animation" width="100%" />
+</picture>
+
+</div>
+
+## 📫 Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/andromaquehere)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-gribkov/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andromaquehere@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=100&section=footer" alt="" />
+</div>
