@@ -10,10 +10,6 @@
 
 📱 **Mobile engineer.** I ship cross-platform apps with **Flutter** and go native on **iOS (Swift)** and **Android (Kotlin)** when it matters — clean architecture, SOLID, state management that scales.
 
-🤖 **Now building AI-first.** Agentic pipelines, LLM apps, and a **self-hosted privacy gateway** that keeps sensitive data out of third-party models. I like systems that are private by default and automated end to end.
-
-🚀 I design and ship products under my own brand **lornn**, and lead mobile/AI work day to day.
-
 ## 🧰 Tech
 
 **📱 Mobile**
