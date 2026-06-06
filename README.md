@@ -12,24 +12,18 @@
 
 ## 🧰 Tech
 
-**📱 Mobile**
+**🧩 Tech Stack** · languages &amp; frameworks
 <br />
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,go,python,ts,nodejs" alt="Flutter, Dart, Swift, Kotlin, Go, Python, TypeScript, Node.js" />
 
-**🍎 Native**
-<br />
-<img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio" alt="Swift, Kotlin, Apple / iOS, Android Studio" />
-
-**⚙️ Languages &amp; Backend**
-<br />
-<img src="https://skillicons.dev/icons?i=go,python,ts,nodejs,postgres,redis,docker,linux,git" alt="Go, Python, TypeScript, Node.js, PostgreSQL, Redis, Docker, Linux, Git" />
-
-**🤖 AI &amp; LLM**
+**🛠 Tools** · AI, infra &amp; tooling
 <br />
 ![Claude Agent SDK](https://img.shields.io/badge/Claude-Agent_SDK-191919?style=flat&logo=anthropic&logoColor=D97757)
 ![OpenAI](https://img.shields.io/badge/OpenAI-191919?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-191919?style=flat&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-191919?style=flat&logo=ollama&logoColor=white)
+<br />
+<img src="https://skillicons.dev/icons?i=docker,postgres,redis,linux,git" alt="Docker, PostgreSQL, Redis, Linux, Git" />
 <br />
 <sub>multi-agent orchestration · RAG · PII / privacy filtering · self-hosted models · prompt &amp; agent engineering</sub>
 
