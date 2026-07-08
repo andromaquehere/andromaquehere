@@ -33,7 +33,7 @@ COL = 38
 SKILL_COLS = [
     ('LANGUAGES & FRAMEWORKS', [('rust','Rust'),('go','Go'),('python','Python'),('typescript','TypeScript'),
                                 ('nodejs','Node.js'),('dart','Dart'),('flutter','Flutter'),('swift','Swift'),('kotlin','Kotlin')]),
-    ('AI', [('claude','Claude Agent SDK'),(None,'OpenAI'),(None,'Codex'),('gemini','Gemini'),
+    ('AI', [('claude','Claude Agent SDK'),('openai','OpenAI'),('codex','Codex'),('gemini','Gemini'),
             ('langchain','LangChain'),('ollama','Ollama')]),
     ('TOOLS & INFRA', [('docker','Docker'),('postgresql','PostgreSQL'),('redis','Redis'),('linux','Linux'),('git','Git')]),
 ]
@@ -175,7 +175,7 @@ def terminal(fg, bg, icon_dir):
         show = '' if i == 1 else f'on 0.01s linear {t_prompt:.2f}s forwards, '
         op = '' if i == 1 else ' opacity: 0;'
         css.append(f'.caret{i} {{ fill: {fg};{op} animation: {show}{blink}'
-                   f'slide{i} {d_type:.2f}s steps({n}, end) {t_type:.2f}s backwards, off 0.01s linear {t_hide:.2f}s forwards; }}')
+                   f'slide{i} {d_type:.2f}s steps({n}, end) {t_type:.2f}s both, off 0.01s linear {t_hide:.2f}s forwards; }}')
         css.append(f'@keyframes slide{i} {{ from {{ transform: translateX(0); }} to {{ transform: translateX({n * CW:.0f}px); }} }}')
         # output
         if kind == 'instant':
