@@ -106,19 +106,8 @@ def rabbit_svg(fg, bg, x_land):
     markup = (f'<g transform="translate({x_land:.0f}, {TOP - RAB_H})"><g class="hop">'
               f'<g fill="{fg}" shape-rendering="crispEdges">{"".join(body)}'
               f'<g class="eartip">{"".join(eartip)}</g></g>{eye}</g></g>')
-    css = f'''.hop {{ animation: hopin 2.2s linear 0.4s backwards; }}
-    .eye {{ fill: {bg}; animation: blinkeye 4.5s steps(1, end) 3.2s infinite; }}
+    css = f'''.eye {{ fill: {bg}; animation: blinkeye 4.5s steps(1, end) 3.2s infinite; }}
     .eartip {{ animation: twitch 5.5s steps(1, end) 4s infinite; }}
-    @keyframes hopin {{
-      0%   {{ transform: translate(300px, 0); }}
-      15%  {{ transform: translate(230px, -42px); }}
-      30%  {{ transform: translate(170px, 0); }}
-      48%  {{ transform: translate(110px, -32px); }}
-      64%  {{ transform: translate(55px, 0); }}
-      80%  {{ transform: translate(16px, -18px); }}
-      92%  {{ transform: translate(0, 0); }}
-      100% {{ transform: translate(0, 0); }}
-    }}
     @keyframes blinkeye {{ 0%, 90% {{ fill: {bg}; }} 91%, 97% {{ fill: {fg}; }} 98%, 100% {{ fill: {bg}; }} }}
     @keyframes twitch {{ 0%, 88% {{ transform: translateY(0); }} 90%, 93% {{ transform: translateY(2px); }} 95%, 100% {{ transform: translateY(0); }} }}'''
     return markup, css

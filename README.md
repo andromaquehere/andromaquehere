@@ -3,8 +3,8 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andromaquehere/andromaquehere/main/assets/terminal-dark.svg?v=f8fdaa7" />
-  <img src="https://raw.githubusercontent.com/andromaquehere/andromaquehere/main/assets/terminal-light.svg?v=f8fdaa7" alt="terminal: cat README.md prints andromaquehere; skills prints languages and AI infrastructure table" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andromaquehere/andromaquehere/main/assets/terminal-dark.svg?v=7c8465d" />
+  <img src="https://raw.githubusercontent.com/andromaquehere/andromaquehere/main/assets/terminal-light.svg?v=7c8465d" alt="terminal: cat README.md prints andromaquehere; skills prints languages and AI infrastructure table" width="100%" />
 </picture>
 
 <br />
