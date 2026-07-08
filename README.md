@@ -1,6 +1,9 @@
 <!-- Profile README — andromaquehere. Minimal B/W redesign 2026-07-08. Strategy/ADR lives in the vault: 04_Sources/[P]-github-profile/ -->
 
-# Software Engineer · AI Native
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andromaquehere/andromaquehere/main/assets/banner-dark.svg" />
+  <img src="https://raw.githubusercontent.com/andromaquehere/andromaquehere/main/assets/banner-light.svg" alt="andromaquehere" width="100%" />
+</picture>
 
 <br />
 
