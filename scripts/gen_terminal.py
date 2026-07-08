@@ -71,21 +71,22 @@ projects.append('└' + '─' * C1 + '┴' + '─' * C2 + '┘')
 
 # ---------- mascot: sitting pixel rabbit, facing left ----------
 RABBIT_ART = [
-    "...##..##.........",
-    "...##..##.........",
-    "...##..##.........",
-    "...######.........",
-    "..########........",
-    "..#o######........",
-    "..########..###...",
-    "..#######..#####..",
-    "..######..######..",
-    "...#############t.",
-    "...############t..",
-    "...##..#####..##..",
-    "..###..#####..###.",
+    "....#...#........",
+    "...##..##........",
+    "...##..##........",
+    "...##..##........",
+    "...##..##........",
+    "...######........",
+    "..########.......",
+    "..#o######.......",
+    "..########.......",
+    "...########......",
+    "...###########...",
+    "...##########tt..",
+    "...##..####..tt..",
+    "..###..####..##..",
 ]
-RCELL = 3
+RCELL = 6
 RAB_W = len(RABBIT_ART[0]) * RCELL
 RAB_H = len(RABBIT_ART) * RCELL
 TOP = RAB_H + 8                       # свободная полоса над окном под зайца
@@ -109,12 +110,12 @@ def rabbit_svg(fg, bg, x_land):
     .eye {{ fill: {bg}; animation: blinkeye 4.5s steps(1, end) 3.2s infinite; }}
     .eartip {{ animation: twitch 5.5s steps(1, end) 4s infinite; }}
     @keyframes hopin {{
-      0%   {{ transform: translate(260px, 0); }}
-      15%  {{ transform: translate(200px, -26px); }}
-      30%  {{ transform: translate(148px, 0); }}
-      48%  {{ transform: translate(96px, -20px); }}
-      64%  {{ transform: translate(48px, 0); }}
-      80%  {{ transform: translate(14px, -12px); }}
+      0%   {{ transform: translate(300px, 0); }}
+      15%  {{ transform: translate(230px, -42px); }}
+      30%  {{ transform: translate(170px, 0); }}
+      48%  {{ transform: translate(110px, -32px); }}
+      64%  {{ transform: translate(55px, 0); }}
+      80%  {{ transform: translate(16px, -18px); }}
       92%  {{ transform: translate(0, 0); }}
       100% {{ transform: translate(0, 0); }}
     }}
