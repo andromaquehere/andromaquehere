@@ -69,6 +69,59 @@ for dl in desc_lines[1:]:
     projects.append(prow('', dl))
 projects.append('└' + '─' * C1 + '┴' + '─' * C2 + '┘')
 
+# ---------- mascot: sitting pixel rabbit, facing left ----------
+RABBIT_ART = [
+    "...##..##.........",
+    "...##..##.........",
+    "...##..##.........",
+    "...######.........",
+    "..########........",
+    "..#o######........",
+    "..########..###...",
+    "..#######..#####..",
+    "..######..######..",
+    "...#############t.",
+    "...############t..",
+    "...##..#####..##..",
+    "..###..#####..###.",
+]
+RCELL = 3
+RAB_W = len(RABBIT_ART[0]) * RCELL
+RAB_H = len(RABBIT_ART) * RCELL
+TOP = RAB_H + 8                       # свободная полоса над окном под зайца
+
+def rabbit_svg(fg, bg, x_land):
+    body, eartip, eye = [], [], None
+    for r, row in enumerate(RABBIT_ART):
+        for c, ch in enumerate(row):
+            if ch == '.': continue
+            rect = f'<rect x="{c * RCELL}" y="{r * RCELL}" width="{RCELL}" height="{RCELL}"/>'
+            if ch == 'o':
+                eye = f'<rect class="eye" x="{c * RCELL}" y="{r * RCELL}" width="{RCELL}" height="{RCELL}"/>'
+            elif r <= 1 and c <= 4:   # кончик левого уха
+                eartip.append(rect)
+            else:
+                body.append(rect)
+    markup = (f'<g transform="translate({x_land:.0f}, {TOP - RAB_H})"><g class="hop">'
+              f'<g fill="{fg}" shape-rendering="crispEdges">{"".join(body)}'
+              f'<g class="eartip">{"".join(eartip)}</g></g>{eye}</g></g>')
+    css = f'''.hop {{ animation: hopin 2.2s linear 0.4s backwards; }}
+    .eye {{ fill: {bg}; animation: blinkeye 4.5s steps(1, end) 3.2s infinite; }}
+    .eartip {{ animation: twitch 5.5s steps(1, end) 4s infinite; }}
+    @keyframes hopin {{
+      0%   {{ transform: translate(260px, 0); }}
+      15%  {{ transform: translate(200px, -26px); }}
+      30%  {{ transform: translate(148px, 0); }}
+      48%  {{ transform: translate(96px, -20px); }}
+      64%  {{ transform: translate(48px, 0); }}
+      80%  {{ transform: translate(14px, -12px); }}
+      92%  {{ transform: translate(0, 0); }}
+      100% {{ transform: translate(0, 0); }}
+    }}
+    @keyframes blinkeye {{ 0%, 90% {{ fill: {bg}; }} 91%, 97% {{ fill: {fg}; }} 98%, 100% {{ fill: {bg}; }} }}
+    @keyframes twitch {{ 0%, 88% {{ transform: translateY(0); }} 90%, 93% {{ transform: translateY(2px); }} 95%, 100% {{ transform: translateY(0); }} }}'''
+    return markup, css
+
 P_HOME = '~ $'
 P_DIR = '~/andromaquehere $'
 
@@ -171,12 +224,14 @@ def terminal(fg, bg, icon_dir):
     all_p = ', '.join(f'.p{i}' for i in range(2, len(SEQ) + 1))
     css_s = '\n    '.join(css)
     body_s = '\n  '.join(body)
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {win_w:.0f} {win_h}" role="img" aria-label="terminal session: ls, cd andromaquehere, then cat README.md, skills.md and projects.md">
+    rab_markup, rab_css = rabbit_svg(fg, bg, win_w - 190)
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {win_w:.0f} {win_h + TOP}" role="img" aria-label="terminal session: ls, cd andromaquehere, then cat README.md, skills.md and projects.md">
   <style>
     text {{ font-family: {MONO}; font-size: {FS}px; fill: {fg}; }}
     .muted {{ fill: {MUTED}; }}
     .title {{ font-family: {SANS}; font-size: 12px; fill: {MUTED}; }}
     {css_s}
+    {rab_css}
     @keyframes reveal {{ to {{ clip-path: inset(0 0 0 0); }} }}
     @keyframes flush  {{ to {{ clip-path: inset(0 0 0 0); }} }}
     @keyframes on     {{ to {{ opacity: 1; }} }}
@@ -186,14 +241,18 @@ def terminal(fg, bg, icon_dir):
       {all_cmd}, {all_out} {{ animation: none; clip-path: none; opacity: 1; }}
       {all_caret} {{ animation: none; opacity: 0; }}
       {all_p}, .pF, .caretF {{ animation: none; opacity: 1; }}
+      .hop, .eartip, .eye {{ animation: none; }}
     }}
   </style>
+  {rab_markup}
+  <g transform="translate(0, {TOP})">
   <rect x="0.5" y="0.5" width="{win_w - 1:.0f}" height="{win_h - 1}" rx="10" fill="{bg}" stroke="{MUTED}" stroke-opacity="0.55" />
   <circle cx="22" cy="16" r="5.5" fill="none" stroke="{MUTED}" /><circle cx="42" cy="16" r="5.5" fill="none" stroke="{MUTED}" /><circle cx="62" cy="16" r="5.5" fill="none" stroke="{MUTED}" />
   <text class="title" x="{win_w / 2:.0f}" y="20" text-anchor="middle">{TITLE}</text>
   <line x1="0.5" y1="{bar_h + 0.5}" x2="{win_w - 0.5:.0f}" y2="{bar_h + 0.5}" stroke="{MUTED}" stroke-opacity="0.55" />
 
   {body_s}
+  </g>
 </svg>
 '''
 
