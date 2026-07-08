@@ -1,41 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1048 442" role="img" aria-label="terminal: cat README.md prints andromaquehere; skills prints languages and AI infrastructure table">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1048 590" role="img" aria-label="terminal session: cat README.md, skills.md and projects.md">
   <style>
     text { font-family: ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 14px; fill: #000000; }
     .muted { fill: #848d97; }
     .title { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; fill: #848d97; }
-    .cmd1 { clip-path: inset(0 100% 0 0); animation: reveal 1.2s steps(13, end) 0.5s forwards; }
-    .caret1 { fill: #000000; animation: slide1 1.2s steps(13, end) 0.5s backwards, off 0.01s linear 2.0s forwards; }
-    .artg { clip-path: inset(0 100% 0 0); animation: reveal 1.6s steps(14, end) 2.0s forwards; }
-    .p2 { opacity: 0; animation: on 0.01s linear 3.9s forwards; }
-    .caret2 { fill: #000000; opacity: 0;
-               animation: on 0.01s linear 3.9s forwards,
-                          blink 1.1s steps(1, end) 3.9s 2,
-                          slide2 0.7s steps(6, end) 6.2s backwards,
-                          off 0.01s linear 7.1s forwards; }
-    .cmd2 { clip-path: inset(0 100% 0 0); animation: reveal 0.7s steps(6, end) 6.2s forwards; }
-    .tblg { clip-path: inset(0 0 100% 0); animation: flush 0.5s steps(13, end) 7.2s forwards; }
-    .p3 { opacity: 0; animation: on 0.01s linear 8.0s forwards; }
-    .caret3 { fill: #000000; opacity: 0; animation: on 0.01s linear 8.0s forwards, blink 1.1s steps(1, end) 8.0s infinite; }
+    .p1 { opacity: 1; }
+    .cmd1 { clip-path: inset(0 100% 0 0); animation: reveal 1.5s steps(29, end) 0.5s forwards; }
+    .caret1 { fill: #000000; animation: slide1 1.5s steps(29, end) 0.5s backwards, off 0.01s linear 2.2s forwards; }
+    .artg { clip-path: inset(0 100% 0 0); animation: reveal 1.6s steps(14, end) 2.2s forwards; }
+    .p2 { opacity: 0; animation: on 0.01s linear 4.1s forwards; }
+    .cmd2 { clip-path: inset(0 100% 0 0); animation: reveal 1.5s steps(29, end) 4.7s forwards; }
+    .caret2 { fill: #000000; opacity: 0; animation: on 0.01s linear 4.1s forwards, blink 1.1s steps(1, end) 4.1s 1, slide2 1.5s steps(29, end) 4.7s backwards, off 0.01s linear 6.4s forwards; }
+    .skl { clip-path: inset(0 0 100% 0); animation: flush 0.5s steps(13, end) 6.5s forwards; }
+    .p3 { opacity: 0; animation: on 0.01s linear 7.3s forwards; }
+    .cmd3 { clip-path: inset(0 100% 0 0); animation: reveal 1.6s steps(31, end) 7.9s forwards; }
+    .caret3 { fill: #000000; opacity: 0; animation: on 0.01s linear 7.3s forwards, blink 1.1s steps(1, end) 7.3s 1, slide3 1.6s steps(31, end) 7.9s backwards, off 0.01s linear 9.7s forwards; }
+    .prj { clip-path: inset(0 0 100% 0); animation: flush 0.4s steps(8, end) 9.8s forwards; }
+    .p4 { opacity: 0; animation: on 0.01s linear 10.5s forwards; }
+    .caret4 { fill: #000000; opacity: 0; animation: on 0.01s linear 10.5s forwards, blink 1.1s steps(1, end) 10.5s infinite; }
     @keyframes reveal { to { clip-path: inset(0 0 0 0); } }
     @keyframes flush  { to { clip-path: inset(0 0 0 0); } }
-    @keyframes slide1 { from { transform: translateX(0); } to { transform: translateX(109px); } }
-    @keyframes slide2 { from { transform: translateX(0); } to { transform: translateX(50px); } }
+    @keyframes slide1 { from { transform: translateX(0); } to { transform: translateX(244px); } }
+    @keyframes slide2 { from { transform: translateX(0); } to { transform: translateX(244px); } }
+    @keyframes slide3 { from { transform: translateX(0); } to { transform: translateX(260px); } }
     @keyframes on     { to { opacity: 1; } }
     @keyframes off    { to { opacity: 0; } }
     @keyframes blink  { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) {
-      .cmd1, .cmd2, .artg, .tblg { animation: none; clip-path: none; }
-      .caret1, .caret2 { animation: none; opacity: 0; }
-      .p2, .p3, .caret3 { animation: none; opacity: 1; }
+      .cmd1, .cmd2, .cmd3, .artg, .skl, .prj { animation: none; clip-path: none; }
+      .caret1, .caret2, .caret3 { animation: none; opacity: 0; }
+      .p2, .p3, .p4, .caret4 { animation: none; opacity: 1; }
     }
   </style>
-  <rect x="0.5" y="0.5" width="1047" height="441" rx="10" fill="#ffffff" stroke="#848d97" stroke-opacity="0.55" />
+  <rect x="0.5" y="0.5" width="1047" height="589" rx="10" fill="#ffffff" stroke="#848d97" stroke-opacity="0.55" />
   <circle cx="22" cy="16" r="5.5" fill="none" stroke="#848d97" /><circle cx="42" cy="16" r="5.5" fill="none" stroke="#848d97" /><circle cx="62" cy="16" r="5.5" fill="none" stroke="#848d97" />
   <text class="title" x="524" y="20" text-anchor="middle">zsh</text>
   <line x1="0.5" y1="32.5" x2="1048" y2="32.5" stroke="#848d97" stroke-opacity="0.55" />
 
-  <text class="muted" x="20" y="58" xml:space="preserve">~ $</text>
-  <text class="cmd1" x="54" y="58" textLength="109" lengthAdjust="spacingAndGlyphs">cat README.md</text>
+  <text class="p1 muted" x="20" y="58" xml:space="preserve">~ $</text>
+  <text class="cmd1" x="54" y="58" textLength="244" lengthAdjust="spacingAndGlyphs">cat ~andromaquehere/README.md</text>
   <rect class="caret1" x="54" y="46" width="8.4" height="15" />
   <g class="artg">
     <text class="art" x="20" y="96" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> █████╗ ███╗   ██╗██████╗ ██████╗  ██████╗ ███╗   ███╗ █████╗  ██████╗ ██╗   ██╗███████╗██╗  ██╗███████╗██████╗ ███████╗</text>
@@ -47,9 +49,9 @@
   </g>
 
   <text class="p2 muted" x="20" y="208" xml:space="preserve">~ $</text>
-  <text class="cmd2" x="54" y="208" textLength="50" lengthAdjust="spacingAndGlyphs">skills</text>
+  <text class="cmd2" x="54" y="208" textLength="244" lengthAdjust="spacingAndGlyphs">cat ~andromaquehere/skills.md</text>
   <rect class="caret2" x="54" y="196" width="8.4" height="15" />
-  <g class="tblg">
+  <g class="skl">
     <text class="tbl" x="20" y="232" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">┌──────────────────────────────────────────────────────────┬──────────────────────────────────────────────────────────┐</text>
     <text class="tbl" x="20" y="246" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│ LANGUAGES &amp; FRAMEWORKS                                   │ AI &amp; INFRASTRUCTURE                                      │</text>
     <text class="tbl" x="20" y="260" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">├──────────────────────────────────────────────────────────┼──────────────────────────────────────────────────────────┤</text>
@@ -82,5 +84,19 @@
   </g>
 
   <text class="p3 muted" x="20" y="426" xml:space="preserve">~ $</text>
+  <text class="cmd3" x="54" y="426" textLength="260" lengthAdjust="spacingAndGlyphs">cat ~andromaquehere/projects.md</text>
   <rect class="caret3" x="54" y="414" width="8.4" height="15" />
+  <g class="prj">
+    <text class="tbl" x="20" y="450" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">┌─────────┬───────────────────────────────────────────────────────────────────────────────────────────────────────────┐</text>
+    <text class="tbl" x="20" y="464" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│ PROJECT │ hermorah                                                                                                  │</text>
+    <text class="tbl" x="20" y="478" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">├─────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────┤</text>
+    <text class="tbl" x="20" y="492" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│ site    │ hermorah.com                                                                                              │</text>
+    <text class="tbl" x="20" y="506" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│ repo    │ github.com/lornn-inc/hermorah-plugin                                                                      │</text>
+    <text class="tbl" x="20" y="520" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│ about   │ Memory &amp; governance for AI agents — the open hermorah connector for Claude Code: always-loaded memory at  │</text>
+    <text class="tbl" x="20" y="534" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│         │ session start, live MCP memory tools, automatic pool sync.                                                │</text>
+    <text class="tbl" x="20" y="548" textLength="1008" lengthAdjust="spacingAndGlyphs" xml:space="preserve">└─────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────┘</text>
+  </g>
+
+  <text class="p4 muted" x="20" y="574" xml:space="preserve">~ $</text>
+  <rect class="caret4" x="54" y="562" width="8.4" height="15" />
 </svg>
